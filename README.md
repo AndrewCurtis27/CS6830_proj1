@@ -1,3 +1,4 @@
 # CS6830_proj1
 
-This is a test
+Relevant packages may be needed to be installed for the code to execute fully. Such as sklearn.
+Imports should all be included in the code.
